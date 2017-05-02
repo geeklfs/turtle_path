@@ -1,0 +1,8 @@
+prefix=/home/robosun/catkin_ws_turtle/install
+
+Name: robot
+Description: Description of robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robosun/catkin_ws_turtle/install/lib 
+Requires: 

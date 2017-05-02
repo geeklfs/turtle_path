@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robosun/catkin_ws_turtle/install/setup.sh

@@ -1,0 +1,2 @@
+robot
+-DCATKIN_DEVEL_PREFIX=/home/robosun/catkin_ws_turtle/devel -DCMAKE_INSTALL_PREFIX=/home/robosun/catkin_ws_turtle/install -G Unix Makefiles
